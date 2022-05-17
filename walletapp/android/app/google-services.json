@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "992609255592",
+    "project_id": "wallet-e5298",
+    "storage_bucket": "wallet-e5298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992609255592:android:276fbc071bbc15427cc29d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.walletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992609255592-73522tgujvojpkk1g063kqp7llbfubod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.walletapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "992609255592-9h90fgts7ff83rpl62g4o1pga6kemfmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0a2GhrLAA4VDhTaxo4wQleLVbvxjDz18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992609255592-9h90fgts7ff83rpl62g4o1pga6kemfmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992609255592-rsrmjj8euln9b6omdf3cgboo2v1e6j0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.walletapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
